@@ -4,15 +4,16 @@
 
 ## Web Dev Projects
 - ### React
-  1. [Spoon-fed](https://github.com/Mayank-Jain-1/SpoonFed.github.io) - An online food ordering website
-  1. [TextUtils](https://github.com/Mayank-Jain-1/TextUtils) - A simple onle text editing and ultility website. Working Dark mode 
-  1. [NewsMonekey](https://github.com/Mayank-Jain-1/NewsMonkey) - This is a live and real news fetching website. Selectable genre and Area
-  1. [Profile Page](https://github.com/Mayank-Jain-1/Full-Stack-Web-App) (MERN, Incomplete) - This a profile page with working login and register Backend. It used MERN Stack
+  1. [Spoon-fed](https://github.com/Mayank-Jain-1/SpoonFed.github.io) - An online food ordering website. [Visit Here](https://vercel.com/mayank-jain-1/spoon-fed)
+  1. [TextUtils](https://github.com/Mayank-Jain-1/TextUtils) - A simple onle text editing and ultility website. Working Dark mode. [Visit Here](https://text-utils-tan.vercel.app/)
+  1. [NewsMonkey](https://github.com/Mayank-Jain-1/NewsMonkey) - This is a live and real news fetching website. Selectable genre and Area. [Visit here](https://news-monkey-seven.vercel.app/)
+  1. [Profile Page](https://github.com/Mayank-Jain-1/Full-Stack-Web-App) (MERN, Incomplete) - This a profile page with working login and register Backend. It used MERN Stack. [Visit here](https://full-stack-web-app-gilt.vercel.app/)
 
 - ### Static Webpages (FrontEnd)
-  1. [DripX](https://github.com/Mayank-Jain-1/DripX.github.io) - An online fashion shop. Cool hover animation and footer
-  1. [HungryHaus](https://github.com/Mayank-Jain-1/HungryHaus.github.io) - Online food ordering website search page
-  1. [25-Dollars](https://github.com/Mayank-Jain-1/25-Dollars-project) - Farm products ordering website. Mobile view only
+  1. [DripX](https://github.com/Mayank-Jain-1/DripX.github.io) - An online fashion shop. Cool hover animation and footer. [Visit here](https://mayank-jain-1.github.io/DripX.github.io/)
+  1. [HungryHaus](https://github.com/Mayank-Jain-1/HungryHaus.github.io) - Online food ordering website search page. [Visit here](https://mayank-jain-1.github.io/HungryHaus.github.io/?southIndian=on&chinese=on)
+  1. [25-Dollars](https://github.com/Mayank-Jain-1/25-Dollars-project) - Farm products ordering website. Mobile view only. [Visit here](https://mayank-jain-1.github.io/25-Dollars-project/)
+  1. [Netflix Clone](https://github.com/Mayank-Jain-1/Netflix-Homepage.github.io) - Netflix Clone website made in just **1 Day** of efforts . [Visit here](https://mayank-jain-1.github.io/Netflix-Homepage.github.io/)
 
 - ### Django
   1. [TextUtils](https://github.com/Mayank-Jain-1/Text-Utils-using-Django) - This was a copy of my old design for learning Django
