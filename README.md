@@ -18,6 +18,9 @@
 - ### Django
   1. [TextUtils](https://github.com/Mayank-Jain-1/Text-Utils-using-Django) - This was a copy of my old design for learning Django
 
+- ### Mini Projects
+  1. [5 Min Crafts](https://github.com/Mayank-Jain-1/5-Min-Crafts) - These are super tiny projects mostly based to learn atomic skills. 
+
 ## Python Projects
 - ### Machine Learning
   1. [Iris-Classification](https://github.com/Mayank-Jain-1/Iris-Classification-SVM) - A simple iris classification using SVM
