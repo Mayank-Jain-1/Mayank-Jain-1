@@ -1,10 +1,13 @@
-# My Projects
+# Mayank Jain
 
 ### My portfolio page -> [Mayank Jain - Portfolio](https://mayank-jain.vercel.app/) 
 [Github Repo](https://github.com/Mayank-Jain-1/Portfolio)
 <br/>
 
 ## Web Dev Projects
+- ### Street Fighter Game
+  - [Street Fighter](https://streetfighterbymayank.netlify.app/) - Experience the classic arcade-style fighting gameplay with iconic Street Fighter characters. [View Game](https://github.com/Mayank-Jain-1/StreetFighter)
+
 - ### React
   1. [Spoon-fed](https://github.com/Mayank-Jain-1/SpoonFed.github.io) - An online food ordering website. [Visit Here](https://spoon-fed.vercel.app/)
   1. [CloudCast](https://github.com/Mayank-Jain-1/CloudCast) - Weather forcasting and live updates application. Can search weather conditions based on name of the place. [Visit Here](https://cloud-cast.vercel.app/) 
